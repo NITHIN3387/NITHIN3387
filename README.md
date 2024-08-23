@@ -15,7 +15,7 @@
   
 ## 🧙‍♂️ About Me
 
-🎨 I’m a full-stack web who loves bringing ideas to life through technology. From crafting eye-catching front-end designs to building robust back-end systems, I’m passionate about making digital experiences both beautiful and functional.
+I’m a full-stack web who loves bringing ideas to life through technology. From crafting eye-catching front-end designs to building robust back-end systems, I’m passionate about making digital experiences both beautiful and functional.
 
 ✨ I’m always excited to dive into new projects and collaborate with others. Let’s create something amazing together!
 
