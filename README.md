@@ -1,3 +1,5 @@
+<div align="center">
+  
 # 🎉 Welcome to my tech space!
 
 ```
@@ -63,3 +65,4 @@ You've found the hidden treasure! Here's a [link](https://yourwebsite.com/secret
 
 ---
 ✨ **Happy Coding!** 🚀
+</div>
