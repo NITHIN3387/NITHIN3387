@@ -37,12 +37,13 @@ I’m a full-stack web developer who loves bringing ideas to life through techno
 | 🤖 **Machine Learning**     | ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2300A3E0.svg?style=flat&logo=matplotlib&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) |
 | 🖥️ **Operating Systems**    | ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=flat&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-%23008CFF.svg?style=flat&logo=windows&logoColor=white) |
 
-<!-- ## 🚀 My Latest Adventures
-[![Project 1](https://yourgiflink.com)](https://yourprojectlink.com) 
-*A journey through the [Project Name], where I [brief description].*
+<div align="start">
+  
+## 🚀 Currently working on ...
 
-[![Project 2](https://yourgiflink.com)](https://yourprojectlink.com) 
-*Dive into the world of [Project Name] – [brief description].* -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NITHIN3387&repo=SIGMA-UI)](https://github.com/NITHIN3387/SIGMA-UI)
+
+</div>
 
 <div align="start">
 
