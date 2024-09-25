@@ -41,7 +41,7 @@ I’m a full-stack web developer who loves bringing ideas to life through techno
   
 ## 🚀 Currently working on ...
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NITHIN3387&repo=SIGMA-UI)](https://github.com/NITHIN3387/SIGMA-UI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NITHIN3387&repo=SIGMA-UI)](https://github.com/NITHIN3387/SIGMA-UI-Component-Manager)
 
 </div>
 
